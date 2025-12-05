@@ -4,6 +4,8 @@ Claude Code plugin for working with [Ark](https://github.com/mckinsey/agents-at-
 
 ![Ark Analysis Screenshot](./docs/ark-analysis-claude-code-screenshot.png)
 
+Note: these skills are largely designed for agents running in sandboxes, with access to `kind` to run clusters.
+
 ## Quickstart
 
 Open Claude, choose `/Plugin` to interactively add the marketplace `dwmkerr/ark-claude-code-marketplace`, or:
