@@ -1,0 +1,13 @@
+{
+  "name": "ark-claude-code-marketplace",
+  "owner": {
+    "name": "dwmkerr"
+  },
+  "plugins": [
+    {
+      "name": "ark",
+      "source": "./ark",
+      "description": "Skills for working with Ark - testing, setup, and analysis"
+    }
+  ]
+}
