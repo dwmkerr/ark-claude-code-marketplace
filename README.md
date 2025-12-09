@@ -25,3 +25,4 @@ Skills for Ark development and testing:
 | **dashboard** | Test Ark Dashboard UI with Playwright |
 | **setup** | Set up and install Ark from source |
 | **analysis** | Analyze the Ark codebase |
+| **research** | Research technical solutions with web search and GitHub repo analysis |
