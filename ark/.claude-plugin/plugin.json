@@ -1,8 +1,9 @@
 {
   "name": "ark",
-  "description": "Skills for working with Ark - Chainsaw testing, Dashboard UI testing, setup, and analysis",
-  "version": "0.1.0",
+  "description": "Skills and agents for working with Ark - testing, setup, analysis, and research",
+  "version": "0.2.0",
   "author": {
     "name": "dwmkerr"
-  }
+  },
+  "agents": "./agents/"
 }
