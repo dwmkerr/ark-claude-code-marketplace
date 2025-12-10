@@ -1,9 +1,8 @@
 {
   "name": "ark",
   "description": "Skills and agents for working with Ark - testing, setup, analysis, and research",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "dwmkerr"
-  },
-  "agents": "./agents/"
+  }
 }

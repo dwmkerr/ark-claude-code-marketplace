@@ -15,9 +15,17 @@ claude /plugin marketplace add dwmkerr/ark-claude-code-marketplace
 claude /plugin install ark@ark-claude-code-marketplace
 ```
 
+For local development or fork:
+
+```bash
+# Change the path on 'add' to your path.
+claude /plugin marketplace add ./
+```
+
+
 ## Plugin: ark
 
-Skills for Ark development and testing:
+### Skills
 
 | Skill | Description |
 |-------|-------------|
@@ -26,3 +34,14 @@ Skills for Ark development and testing:
 | **setup** | Set up and install Ark from source |
 | **analysis** | Analyze the Ark codebase |
 | **research** | Research technical solutions with web search and GitHub repo analysis |
+| **architecture** | Ark architecture and design patterns |
+
+### Agents
+
+| Agent | Description |
+|-------|-------------|
+| **researcher** | Research technical solutions with evidence gathering |
+| **ark-architect** | Design Ark architecture and CRDs |
+| **ark-prototyper** | Build prototypes and proof-of-concepts |
+| **ark-protocol-orchestrator** | Orchestrate protocol implementations |
+| **ark-issues** | Manage GitHub issues |
