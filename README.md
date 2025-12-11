@@ -22,8 +22,11 @@ For local development or fork:
 claude /plugin marketplace add ./
 ```
 
-
 ## Plugin: ark
+
+**Examples**
+
+> Use the 'ark researcher' agent to discover how the MCP Asynchronous Task protocol works, this was only released in November 2025 so you will have to do a lot of exploration
 
 ### Skills
 
