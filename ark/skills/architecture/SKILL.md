@@ -1,3 +1,8 @@
+---
+name: ark-architecture
+description: Design architecture for Ark features following existing patterns and principles. Use when planning new features, extending components, or evaluating technical approaches.
+---
+
 # Ark Architecture Skill
 
 Design architecture for Ark features following existing patterns and principles.
