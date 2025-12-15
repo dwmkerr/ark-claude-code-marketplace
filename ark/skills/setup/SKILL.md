@@ -41,7 +41,7 @@ If Docker is available, proceed to the next step.
 First, ensure you have cloned the Ark repository. If the user provided an org/repo, use that. Otherwise, use the default:
 
 ```bash
-git clone https://github.com/mckinsey/agents-at-scale-ark.git
+git clone git@github.com:mckinsey/agents-at-scale-ark.git
 cd agents-at-scale-ark
 ```
 

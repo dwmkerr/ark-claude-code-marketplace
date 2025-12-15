@@ -20,7 +20,7 @@ Use this skill when:
 Clone the Ark repository to a temporary location:
 
 ```bash
-git clone https://github.com/mckinsey/agents-at-scale-ark /tmp/ark-analysis
+git clone git@github.com:mckinsey/agents-at-scale-ark.git /tmp/ark-analysis
 cd /tmp/ark-analysis
 ```
 
@@ -85,7 +85,7 @@ grep -r "team coordination" --include="*.go"
 
 ### Analyzing a controller
 ```bash
-git clone https://github.com/mckinsey/agents-at-scale-ark /tmp/ark-analysis
+git clone git@github.com:mckinsey/agents-at-scale-ark.git /tmp/ark-analysis
 cd /tmp/ark-analysis
 cat ark/internal/controller/query_controller.go
 grep -r "ExecuteQuery" ark/internal/genai/
