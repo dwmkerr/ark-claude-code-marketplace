@@ -319,7 +319,7 @@ git push origin security/fix-cve-YYYY-NNNNN
 Create the pull request:
 
 ```bash
-gh pr create --title "security: fix CVE-YYYY-NNNNN in [component]" --body "$(cat <<'EOF'
+gh pr create --title "fix: CVE-YYYY-NNNNN in [component]" --body "$(cat <<'EOF'
 ## Summary
 Addresses security vulnerability CVE-YYYY-NNNNN in [component].
 
