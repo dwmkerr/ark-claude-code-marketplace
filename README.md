@@ -28,6 +28,8 @@ claude /plugin marketplace add ./
 
 > Use the 'ark researcher' agent to discover how the MCP Asynchronous Task protocol works, this was only released in November 2025 so you will have to do a lot of exploration
 
+> Use the 'ark security patcher' agent to fix security vulnerabilities: "Fix CVE-2025-55183 in Ark" or "The current version of golang has a vulnerability, fix it in ark"
+
 ### Skills
 
 | Skill | Description |
@@ -38,6 +40,7 @@ claude /plugin marketplace add ./
 | **analysis** | Analyze the Ark codebase |
 | **research** | Research technical solutions with web search and GitHub repo analysis |
 | **architecture** | Ark architecture and design patterns |
+| **vulnerability-fixer** | Fix security vulnerabilities by researching CVEs and applying patches |
 
 ### Agents
 
@@ -48,3 +51,4 @@ claude /plugin marketplace add ./
 | **ark-prototyper** | Build prototypes and proof-of-concepts |
 | **ark-protocol-orchestrator** | Orchestrate protocol implementations |
 | **ark-issues** | Manage GitHub issues |
+| **ark-security-patcher** | Fix security vulnerabilities with CVE research and patching |

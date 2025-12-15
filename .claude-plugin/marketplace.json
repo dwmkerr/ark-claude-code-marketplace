@@ -14,6 +14,7 @@
         "./agents/ark-issues.md",
         "./agents/ark-protocol-orchestrator.md",
         "./agents/ark-prototyper.md",
+        "./agents/ark-security-patcher.md",
         "./agents/researcher.md"
       ],
       "skills": [
@@ -22,7 +23,8 @@
         "./skills/chainsaw/SKILL.md",
         "./skills/dashboard/SKILL.md",
         "./skills/research/SKILL.md",
-        "./skills/setup/SKILL.md"
+        "./skills/setup/SKILL.md",
+        "./skills/vulnerability-fixer/SKILL.md"
       ]
     }
   ]
